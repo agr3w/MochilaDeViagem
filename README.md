@@ -1,17 +1,19 @@
-# Nome do meu projeto
+# Mochila de viajem
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto construido durante o curso: "JavaScript na Web: armazenando dados no navegador" na plataforma da Alura. Instrutor: Pedro Marins
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Mochila de viagem**
+| :label: Tecnologias | JavaScript, HTML e CSS
+| :rocket: URL         | https://mochila-de-viagem-red.vercel.app/
+| :fire: Curso     | JavaScript na Web: armazenando dados no navegador
+
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![Screenshot_1](https://user-images.githubusercontent.com/91283681/217272342-310a1ae6-efe7-4ace-8d20-79565031e8cd.png#vitrinedev)
+
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Esse projeto em especial foi muito bom para mim pois eu aprimorei bastante os meus conhecimentos em JavaScript e aprimorei o meu reconhecimento em erros que eu cometo durante a "codagem" em java.
